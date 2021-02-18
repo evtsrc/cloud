@@ -1,4 +1,15 @@
-# Práctica terraform
+# Práctica Cloud
+
+## Índice
+- [Práctica Cloud](#práctica-cloud)
+  - [Índice](#índice)
+  - [Prerequisitos](#prerequisitos)
+    - [Linux (Ubuntu)](#linux-ubuntu)
+      - [*Cliente de Azure*](#cliente-de-azure)
+      - [*Cliente Terraform*](#cliente-terraform)
+    - [Windows](#windows)
+      - [*Cliente de Azure*](#cliente-de-azure-1)
+      - [*Cliente Terraform*](#cliente-terraform-1)
 
 ## Prerequisitos
 
