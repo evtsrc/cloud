@@ -10,6 +10,9 @@
     - [Windows](#windows)
       - [*Cliente de Azure*](#cliente-de-azure-1)
       - [*Cliente Terraform*](#cliente-terraform-1)
+  - [Práctica](#práctica)
+  - [Configuración necesaria para comprobar la práctica](#configuración-necesaria-para-comprobar-la-práctica)
+  - [Evualuación de la práctica](#evualuación-de-la-práctica)
 
 ## Prerequisitos
 
@@ -84,3 +87,15 @@ También se puede tener ambos clientes en entornos Windows, de la siguiente mane
     ```
     terraform -version
     ```
+
+## Práctica
+
+La práctica se describe en el [siguiente enlace](Práctica.md).
+
+## Configuración necesaria para comprobar la práctica
+
+Lo necesario para configurar nuestro servidor de frontend y los de backend está en el [siguiente enlace](Configuración.md).
+
+## Evualuación de la práctica
+
+Las pruebas y el método de evaluación, se describen en el [siguiente enlace](Evaluación.md)
